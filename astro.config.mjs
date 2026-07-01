@@ -1,11 +1,12 @@
 // @ts-check
-import { defineConfig } from 'astro/config';
-import starlight from '@astrojs/starlight';
+import { defineConfig } from "astro/config";
+import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://mohamedrafea37.github.io/",
-  base: "/ArabiaTraduce/",
+  site: "https://mohamedrafea37.github.io",
+  base: "/ArabiaTraduce",
+  trailingSlash: "always",
   integrations: [
     starlight({
       title: "My Docs",
