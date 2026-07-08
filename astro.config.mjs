@@ -4,8 +4,7 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://mohamedrafea37.github.io",
-  base: "/ArabiaTraduce",
+  site: "https://arabiatraduce.com",
   trailingSlash: "always",
   integrations: [
     starlight({
