@@ -1,6 +1,6 @@
 ---
 
-title: "Learn Spanish: Lesson 1 – Greetings and Introductions"
+title: "Learn Spanish Lesson 1 – Greetings and Introductions"
 description: "A beginner-friendly Spanish lesson covering greetings, introductions, basic questions, vocabulary, and grammar for English speakers."
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
