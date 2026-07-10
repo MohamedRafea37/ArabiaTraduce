@@ -1,8 +1,9 @@
 ---
-
-title: "Learn Spanish Lesson 1 – Greetings and Introductions"
+title: "Learn Spanish Lesson 1"
 description: "A beginner-friendly Spanish lesson covering greetings, introductions, basic questions, vocabulary, and grammar for English speakers."
----------------------------------------------------------------------------------------------------------------------------------------------------
+---
+
+---
 
 Welcome to your first Spanish lesson. This guide is designed for English speakers who are beginning to learn Spanish.
 
@@ -12,11 +13,11 @@ By the end of this lesson, you will be able to greet someone, introduce yourself
 
 After completing this lesson, you will be able to:
 
-* Greet someone in Spanish.
-* Introduce yourself.
-* Ask someone their name.
-* Respond to simple questions.
-* Use basic Spanish vocabulary.
+- Greet someone in Spanish.
+- Introduce yourself.
+- Ask someone their name.
+- Respond to simple questions.
+- Use basic Spanish vocabulary.
 
 ## Basic greetings
 
@@ -143,15 +144,15 @@ Many words ending in **-o** are masculine.
 
 Examples:
 
-* El libro — The book
-* El amigo — The friend
+- El libro — The book
+- El amigo — The friend
 
 Many words ending in **-a** are feminine.
 
 Examples:
 
-* La casa — The house
-* La amiga — The friend
+- La casa — The house
+- La amiga — The friend
 
 However, there are exceptions to these rules.
 
@@ -181,13 +182,13 @@ Translate the following sentences into Spanish:
 
 Say the following sentences aloud three times:
 
-* Hola.
-* Me llamo...
-* Mucho gusto.
-* ¿Cómo estás?
-* Estoy bien.
-* Gracias.
-* Hasta luego.
+- Hola.
+- Me llamo...
+- Mucho gusto.
+- ¿Cómo estás?
+- Estoy bien.
+- Gracias.
+- Hasta luego.
 
 Speaking aloud regularly will help improve your pronunciation and confidence.
 
@@ -195,13 +196,11 @@ Speaking aloud regularly will help improve your pronunciation and confidence.
 
 In this lesson, you learned:
 
-* Basic Spanish greetings.
-* How to introduce yourself.
-* How to ask someone's name.
-* Common questions and responses.
-* Beginner Spanish vocabulary.
-* Basic noun gender rules.
+- Basic Spanish greetings.
+- How to introduce yourself.
+- How to ask someone's name.
+- Common questions and responses.
+- Beginner Spanish vocabulary.
+- Basic noun gender rules.
 
 Continue to the next lesson to learn Spanish numbers, days of the week, and simple everyday conversations.
-
-
