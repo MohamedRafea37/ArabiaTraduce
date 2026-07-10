@@ -21,7 +21,9 @@ export default defineConfig({
           label: "Guides",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "Example Guide", slug: "guides/example" },
+            {
+              label: "Learn Spanish – Lesson 1Guide",slug: "guides/Learn Spanish – Lesson 1",
+            },
             { label: "sentence guide", slug: "guides/sentence" },
           ],
         },
