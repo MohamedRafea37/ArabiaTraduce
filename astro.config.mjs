@@ -8,7 +8,7 @@ export default defineConfig({
   trailingSlash: "always",
   integrations: [
     starlight({
-      title: "My Docs",
+      title: "Welcome Arabia Traduce",
       social: [
         {
           icon: "github",
