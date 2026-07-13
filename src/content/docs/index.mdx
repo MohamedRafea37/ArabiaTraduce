@@ -17,10 +17,13 @@ hero:
 ---
 
 import { Card, CardGrid } from "@astrojs/starlight/components";
+import { LinkCard } from '@astrojs/starlight/components';
+
 
 ## overview
 
 <CardGrid stagger>
+<LinkCard title="lesson 01" description="Learn the basics of Spanish greeting and introduction." href="/lessons/lesson-01/" />		
   <Card title="lesson 01 Objectives" icon="pencil">
     By the end of this lesson, you will be able to greet someone, introduce yourself, ask simple questions, and use common Spanish expressions.
   </Card>
