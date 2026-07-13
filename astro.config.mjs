@@ -44,6 +44,10 @@ export default defineConfig({
               label: "Lesson Four/Lección Cuatro",
               slug: "lessons/lesson-04",
             },
+            {
+              label: "Lesson Five/Lección Cinco",
+              slug: "lessons/lesson-05",
+            }
           ],
         },
         {
