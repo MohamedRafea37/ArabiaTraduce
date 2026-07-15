@@ -21,8 +21,8 @@ export default defineConfig({
           label: "Guides",
           items: [
             // Each item here is one entry in the navigation menu.
-            { label: "sentence guide", slug: "guides/sentence" },
             { label: "Spanish Comida", slug: "guides/spanishcomida" },
+            { label: "Spanish Playa", slug: "guides/spanishplaya" },
           ],
         },
         {
@@ -51,10 +51,7 @@ export default defineConfig({
             }
           ],
         },
-        {
-          label: "Reference",
-          items: [{ autogenerate: { directory: "reference" } }],
-        },
+        
       ],
     }),
   ],
