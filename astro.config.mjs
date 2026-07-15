@@ -23,6 +23,7 @@ export default defineConfig({
             // Each item here is one entry in the navigation menu.
             { label: "Spanish Food/Comida", slug: "guides/spanishcomida" },
             { label: "Spanish Beaches/Playas", slug: "guides/spanishplaya" },
+            { label: "Latest Events", slug: "guides/latest-events" },
           ],
         },
         {
