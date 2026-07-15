@@ -1,5 +1,5 @@
 ---
-title: Spanish Playa.
+title: Spanish Beaches/Playas.
 description: Your ultimate guide to the Spanish Playa Vibras.
 ---
 ![playa](../../../assets/Playa.jpg)
