@@ -9,6 +9,7 @@ export default defineConfig({
   integrations: [
     starlight({
       title: "Welcome Arabia Traduce",
+      customCss: ["./src/css/custom.css"],
       social: [
         {
           icon: "github",
@@ -49,10 +50,9 @@ export default defineConfig({
             {
               label: "Lesson Five/Lección Cinco",
               slug: "lessons/lesson-05",
-            }
+            },
           ],
         },
-        
       ],
     }),
   ],
